@@ -52,28 +52,6 @@
                 stroke-width="1.5" />
             </svg> Peminjam</a>
         </li>
-        <!-- 
-        <li class="item">
-          <div class="submenu-item">
-            <span>First submenu</span>
-            <i class="fa-solid fa-chevron-right"></i>
-          </div>
-
-          <ul class="menu-items submenu">
-            <div class="menu-title">
-              <i class="fa-solid fa-chevron-left"></i>
-              Your submenu title
-            </div>
-            <li class="item">
-              <a href="#">First sublink</a>
-            </li>
-            <li class="item">
-              <a href="#">First sublink</a>
-            </li>
-            <li class="item">
-              <a href="#">First sublink</a>
-            </li>
-             -->
       </ul>
     </div>
   </nav>
